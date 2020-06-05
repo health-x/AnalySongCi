@@ -1,6 +1,5 @@
 # 宋词词频分析
 
-
 ### 导入相关库，jieba库用于分词，matplotlib库用于绘制柱形图
 import jieba     
 import matplotlib  
